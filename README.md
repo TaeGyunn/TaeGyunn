@@ -1,9 +1,5 @@
-👋 Hi there! I'm **Web Developer**
+https://capsule-render.vercel.app/api?
 
-
-💪Language
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taegyunn)](https://github.com/TaeGyunn)
 
 
 
