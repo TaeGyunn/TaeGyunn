@@ -3,7 +3,7 @@
 
 💪Language
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/TaeGyunn)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taegyunn)](https://github.com/TaeGyunn)
 
 
 
