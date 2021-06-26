@@ -13,6 +13,10 @@
   ![MySql](https://img.shields.io/badge/MySql-4479A1?style=flat-square&logo=MySql&logoColor=white)
   ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white)
   
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaeGyunn&show_icons=true&theme=radical)
+
+  
 
 
 
