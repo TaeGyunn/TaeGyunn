@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=black&height=300&section=header&text=TaeGyun%20&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=black&height=300&section=header&text=TaeGyun%20&fontSize=70&color=white)
 
 <div align=center>
   
