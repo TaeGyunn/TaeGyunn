@@ -8,9 +8,11 @@
   ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
   ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white)
   
-  
+  ![PostgreSql](https://img.shields.io/badge/PostgreSQL-003545?style=flat-square&logo=PostgreSql&logoColor=white)
   ![MySql](https://img.shields.io/badge/MySql-4479A1?style=flat-square&logo=MySql&logoColor=white)
   ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white)
+  
+  ![Ubuntu](https://img.shields.io/badge/Ubuntu-000000?style=flat-square&logo=Ubuntu&logoColor=white)
   
   
 
