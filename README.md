@@ -15,6 +15,10 @@
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-000000?style=flat-square&logo=Ubuntu&logoColor=white)
   
   
+## PORTPOLIO 
+  Gyun's Portfolio https://taegyunn.github.io/portfolio/
+  
+  
 
 
 
