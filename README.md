@@ -16,7 +16,7 @@
   
   
 ## 🖥️ PORTPOLIO 🖥️
-  Gyun's Portfolio https://taegyunn.github.io/portfolio/
+  https://taegyunn.github.io/portfolio/
   
   
 
