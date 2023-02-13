@@ -14,6 +14,8 @@
   
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-000000?style=flat-square&logo=Ubuntu&logoColor=white)
   
+  ![VUE](https://img.shields.io/badge/Vue.js-white?style=flat-square&logo=Vue.js&logoColor=#194D33)  
+  
   
 ## 🖥️ PORTPOLIO 🖥️
   https://taegyunn.github.io/portfolio/
